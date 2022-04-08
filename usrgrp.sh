@@ -35,7 +35,7 @@ function menu(){
 
 function crusr(){
 	clear
-	echo -n "Don'm el nom d'un usuari: "
+	echo -n "Dona'm el nom d'un usuari: "
 	read nomuser
 	echo -n "UID user: "
 	read uid
